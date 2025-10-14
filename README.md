@@ -1,1 +1,1 @@
-Tarini iswomen safety companion chatbot Integrated with twilio , which can bechat with us on whatsapp
+Tarini is women safety companion chatbot Integrated with twilio , which can bechat with us on whatsapp
