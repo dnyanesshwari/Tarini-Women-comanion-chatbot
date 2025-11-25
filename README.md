@@ -53,5 +53,5 @@ TARINI is an AI-driven **Women Safety Companion Chatbot** designed to provide em
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/TARINI-Women-Safety-Chatbot.git
-   cd TARINI-Women-Safety-Chatbot
+   git clone https://github.com/dnyanesshwari/Tarini-Women-comanion-chatbot.git
+   cd Tarini-Women-comanion-chatbot
