@@ -40,12 +40,10 @@ TARINI is an AI-driven **Women Safety Companion Chatbot** designed to provide em
 
 | Component | Technology |
 |------------|-------------|
-| Frontend | HTML, CSS, JavaScript |
 | Backend | Python (Flask) |
-| AI/NLP | Gemini API / OpenAI GPT |
+| AI/NLP | Gemini API  |
 | Communication | Twilio API |
-| Database | SQLite / JSON for user data |
-| Deployment | Ngrok / Localhost / Cloud (optional) |
+| Deployment | Ngrok / Localhost |
 
 ---
 
